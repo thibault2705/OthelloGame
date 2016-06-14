@@ -1,0 +1,40 @@
+E:\LINF14\C#\ProjetReversi\ProjetReversi\bin\Debug\ProjetReversi.exe.config
+E:\LINF14\C#\ProjetReversi\ProjetReversi\bin\Debug\ProjetReversi.exe
+E:\LINF14\C#\ProjetReversi\ProjetReversi\bin\Debug\ProjetReversi.pdb
+E:\LINF14\C#\ProjetReversi\ProjetReversi\obj\Debug\ProjetReversi.csprojResolveAssemblyReference.cache
+E:\LINF14\C#\ProjetReversi\ProjetReversi\obj\Debug\ProjetReversi.Properties.Resources.resources
+E:\LINF14\C#\ProjetReversi\ProjetReversi\obj\Debug\ProjetReversi.csproj.GenerateResource.Cache
+E:\LINF14\C#\ProjetReversi\ProjetReversi\obj\Debug\ProjetReversi.exe
+E:\LINF14\C#\ProjetReversi\ProjetReversi\obj\Debug\ProjetReversi.pdb
+E:\LINF14\C#\ProjetReversi\ProjetReversi\obj\Debug\ProjetReversi.Reversi.resources
+E:\LINF14\C#\Reversi\ProjetReversi\ProjetReversi\bin\Debug\ProjetReversi.exe.config
+E:\LINF14\C#\Reversi\ProjetReversi\ProjetReversi\obj\Debug\ProjetReversi.exe
+E:\LINF14\C#\Reversi\ProjetReversi\ProjetReversi\obj\Debug\ProjetReversi.pdb
+E:\LINF14\C#\Reversi\ProjetReversi\ProjetReversi\bin\Debug\ProjetReversi.exe
+E:\LINF14\C#\Reversi\ProjetReversi\ProjetReversi\bin\Debug\ProjetReversi.pdb
+E:\LINF14\C#\Reversi\ProjetReversi\ProjetReversi\obj\Debug\ProjetReversi.csprojResolveAssemblyReference.cache
+E:\LINF14\C#\Reversi\ProjetReversi\ProjetReversi\obj\Debug\ProjetReversi.Reversi.resources
+E:\LINF14\C#\Reversi\ProjetReversi\ProjetReversi\obj\Debug\ProjetReversi.Properties.Resources.resources
+E:\LINF14\C#\Reversi\ProjetReversi\ProjetReversi\obj\Debug\ProjetReversi.csproj.GenerateResource.Cache
+D:\Downloads\ProjetReversi (1)\ProjetReversi\ProjetReversi\bin\Debug\ProjetReversi.exe.config
+D:\Downloads\ProjetReversi (1)\ProjetReversi\ProjetReversi\obj\Debug\ProjetReversi.exe
+D:\Downloads\ProjetReversi (1)\ProjetReversi\ProjetReversi\obj\Debug\ProjetReversi.pdb
+D:\Downloads\ProjetReversi (1)\ProjetReversi\ProjetReversi\bin\Debug\ProjetReversi.exe
+D:\Downloads\ProjetReversi (1)\ProjetReversi\ProjetReversi\bin\Debug\ProjetReversi.pdb
+D:\Downloads\ProjetReversi (1)\ProjetReversi\ProjetReversi\obj\Debug\ProjetReversi.csprojResolveAssemblyReference.cache
+D:\Downloads\ProjetReversi (1)\ProjetReversi\ProjetReversi\obj\Debug\ProjetReversi.Reversi.resources
+D:\Downloads\ProjetReversi (1)\ProjetReversi\ProjetReversi\obj\Debug\ProjetReversi.Properties.Resources.resources
+D:\Downloads\ProjetReversi (1)\ProjetReversi\ProjetReversi\obj\Debug\ProjetReversi.csproj.GenerateResource.Cache
+F:\LINF14\ProjetReversi\ProjetReversi\bin\Debug\ProjetReversi.exe.config
+F:\LINF14\ProjetReversi\ProjetReversi\obj\Debug\ProjetReversi.exe
+F:\LINF14\ProjetReversi\ProjetReversi\obj\Debug\ProjetReversi.pdb
+F:\LINF14\ProjetReversi\ProjetReversi\bin\Debug\ProjetReversi.exe
+F:\LINF14\ProjetReversi\ProjetReversi\bin\Debug\ProjetReversi.pdb
+F:\LINF14\ProjetReversi\ProjetReversi\obj\Debug\ProjetReversi.csprojResolveAssemblyReference.cache
+F:\LINF14\ProjetReversi\ProjetReversi\obj\Debug\ProjetReversi.Reversi.resources
+F:\LINF14\ProjetReversi\ProjetReversi\obj\Debug\ProjetReversi.Properties.Resources.resources
+F:\LINF14\ProjetReversi\ProjetReversi\obj\Debug\ProjetReversi.csproj.GenerateResource.Cache
+F:\LINF14\ProjetReversi\ProjetReversi\bin\Debug\ProjetReversi.exe.manifest
+F:\LINF14\ProjetReversi\ProjetReversi\bin\Debug\ProjetReversi.application
+F:\LINF14\ProjetReversi\ProjetReversi\obj\Debug\ProjetReversi.exe.manifest
+F:\LINF14\ProjetReversi\ProjetReversi\obj\Debug\ProjetReversi.application
